@@ -47,6 +47,10 @@ public class MainActivity extends AppCompatActivity {
     private ImageView ivQRCode;
     private boolean isScanningFromCamera = false;
 
+    /*El siguinete comentario es para comunicarle que tuve inconveniente con este proyecto*/
+    /*Así que me tome la molestia de hacer un nuevo proyecto y por este medio le mando el link*/
+    /*Este es el link https://github.com/DeiverGamboa04/MyApplicationMLKIT.git*/
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
